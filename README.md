@@ -1,1 +1,1 @@
-A simple Calculator for ARthametic operations using Html,css,js
+A simple Calculator for Athametic operations using Html,css,js
